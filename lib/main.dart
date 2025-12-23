@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:foodie_app_2/pages/home/home_page.dart';
 import 'package:foodie_app_2/pages/splash_page.dart';
 
 void main() {

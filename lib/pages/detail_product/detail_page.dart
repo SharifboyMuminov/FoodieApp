@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:foodie_app_2/extensions/context_extensions.dart';
+import 'package:foodie_app_2/pages/cart/cart_page.dart';
 import 'package:foodie_app_2/pages/detail_product/widgets/choose_size_button.dart';
 
 class DetailPage extends StatefulWidget {
@@ -34,7 +35,16 @@ class _DetailPageState extends State<DetailPage> {
         ),
         actions: [
           IconButton(
-            onPressed: () {},
+            onPressed: () {
+              Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (context) {
+                    return CartPage();
+                  },
+                ),
+              );
+            },
             icon: Icon(Icons.shopping_basket_outlined, color: Colors.black),
           ),
         ],
