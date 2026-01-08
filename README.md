@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/fa9f133d-dafa-43b3-8ca1-4832796bb1df
 # foodie_app_2
 
 A new Flutter project.
@@ -8,8 +10,8 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
+https://github.com/user-attachments/assets/17f32493-a023-4c0c-9ce8-ded8e5c7faee
 
-Uploading freecompress-Simulator Screen Recording - iPhone 17 Pro Max - 2026-01-08 at 09.21.23.mp4…
 
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
